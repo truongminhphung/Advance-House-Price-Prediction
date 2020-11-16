@@ -7,7 +7,7 @@
  * [Directory Tree](#directory-tree)
  
 ## Overview
-this is a simple projects demonstrating the life cycle of an data science project i have learned.
+This is a simple projects demonstrating the life cycle of an data science project i have learned.
 
 ## Motivation
 After learning aspects of ML/DL, i want to apply what have i learned to specific project to reenforce my knowledge in ML/DL.
