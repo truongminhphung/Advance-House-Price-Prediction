@@ -21,3 +21,16 @@ A project can be devided into 5 parts:
 4. Model building
 5. Model deployment
 
+## Directory Tree
+```
+├── Building_model.ipynb
+├── data
+│   ├── test.csv
+│   ├── train.csv
+│   ├── X_train.csv
+│   ├── X_train_F_selection.csv
+│   └── y_train_F_selection.csv
+├── Exploratory Data Analysis.ipynb
+├── Feature Engineering Train Data.ipynb
+└── Feature Selection.ipynb
+```
