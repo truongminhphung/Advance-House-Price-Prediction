@@ -5,7 +5,6 @@
  * [Motivation](#motivation)
  * [Data Science Life Cycle](#data-science-life-cycle)
  * [Directory Tree](#directory-tree)
- * [Technologies Used](#technology-used)
  
 ## Overview
 this is a simple projects demonstrating the life cycle of an data science project i have learned.
