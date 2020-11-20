@@ -7,7 +7,7 @@
  * [Directory Tree](#directory-tree)
  
 ## Overview
-This is a simple projects demonstrating the life cycle of an data science project i have learned.
+This is a simple projects demonstrating the life cycle of an data science project i have learned. I also applied Ridge Regression to the problem.
 
 ## Motivation
 After learning aspects of ML/DL, i want to apply what i have learned to specific project to reenforce my knowledge in ML/DL.
