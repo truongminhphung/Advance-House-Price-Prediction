@@ -19,6 +19,7 @@ A project can be devided into 5 parts:
 3. Feature selection
 4. Model building
 5. Model deployment
+
 In this project, i only do the first four elements
 
 ## Directory Tree
